@@ -1,0 +1,20 @@
+.nav-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.list-default-style {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	list-style: none;
+	padding: 0;
+	height: 5vh;
+	width: 100%;
+}
+
+.list-single-item {
+	display: inline-block;
+	text-decoration: none;
+}
